@@ -1,0 +1,28 @@
+.kvadrat1 {
+    position: absolute;
+    background-color: plum;
+    width: 100px;
+    height: 100px;
+    z-index: 1;
+    top: 10px;
+}
+
+.kvadrat2 {
+    position: absolute;
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    z-index: 2;
+    top: 70px;
+    left: 50px;
+}
+
+.kvadrat3 {
+    position: absolute;
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    z-index: 3;
+    top: 140px;
+    left: 100px;
+}
